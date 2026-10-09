@@ -47,7 +47,7 @@ Milestone 1: Project Proposal (Software Engineering, CSC-225)
 | Name | Roll No. | Email |
 |------|----------|-------|
 | Sameer Hayat |BSCS-2025-50 | bscs25f50@namal.edu.pk|
-| Umair|BSCS-2025-41 | muhammad.umaircs7@gmail.com| 
+| Muhammad Umair|BSCS-2025-41 | muhammad.umaircs7@gmail.com| 
 
 
 **Requirement Provider (RP):** (Uswa Asif)
