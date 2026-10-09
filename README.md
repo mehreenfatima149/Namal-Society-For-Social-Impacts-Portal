@@ -40,6 +40,42 @@ Wing Head and Education Wing Head), General Body members, and local users.
 
 ### Project Status
 Milestone 1: Project Proposal (Software Engineering, CSC-225)
+## Tech Stack
+
+### Frontend
+- HTML5, CSS3 and JavaScript (ES6)
+- React.js (with React Router)
+- Tailwind CSS
+
+### Backend
+- Node.js with Express.js
+- JSON Web Token (jsonwebtoken) and bcrypt for secure login and role-based access
+- Nodemailer for sending emails
+- node-cron for automatic reminder emails 10 minutes before meetings
+- Socket.IO for real-time chat
+- Multer for uploading event pictures and medical reports
+
+### Database
+- MySQL (Community Edition)
+- MySQL Workbench for ER diagrams and database design
+
+### Design and Documentation
+- Figma for wireframes and the prototype
+- Draw.io (diagrams.net) for UML diagrams
+
+### Testing
+- Postman for API testing
+- Jest for automated tests
+
+### Project Management and Version Control
+- Git and GitHub
+- GitHub Projects for the product backlog and sprint board (Scrum)
+- Visual Studio Code
+
+### Deployment (planned)
+- Always-on Linux server (Namal server or a rented VPS)
+- Nginx, PM2 and Let's Encrypt
+- Brevo (free plan) or a similar email service
 
 
 
